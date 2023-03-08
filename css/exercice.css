@@ -65,4 +65,7 @@
 }
 
 /* 10. exercice-10 */
-
+.exercice-10 .container {
+  justify-content: center;
+  align-items: center;
+}
