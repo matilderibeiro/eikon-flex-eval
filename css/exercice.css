@@ -53,6 +53,16 @@
 /* 8. exercice-8 */
 
 /* 9. exercice-9 */
+.exercice-9 .container {
+  flex-flow: row wrap ;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.exercice-9 .element {
+  width: 50%;
+  box-sizing: border-box;
+}
 
 /* 10. exercice-10 */
 
