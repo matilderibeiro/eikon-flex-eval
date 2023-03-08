@@ -51,6 +51,19 @@
 /* 7. exercice-7 */
 
 /* 8. exercice-8 */
+.exercice-8 .container {
+  flex-flow: row wrap;
+  align-items: baseline;
+  align-content: center;
+}
+
+.exercice-8 .element { 
+  flex-grow: 1;
+}
+
+.exercice-8 .element-pink {
+  order: 4;
+}
 
 /* 9. exercice-9 */
 .exercice-9 .container {
